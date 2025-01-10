@@ -3,3 +3,4 @@ This is commit 1
 
     z = x + y
     y = y1 + y2
+    x = x2 + x3
